@@ -1,5 +1,5 @@
 composer.json
-
+```
 "repositories": [
     {
         "url": "https://github.com/atiweb/BootstrapModalBundle.git",
@@ -9,3 +9,4 @@ composer.json
 "require": {
     "atiweb/bootstrap-modal-bundle": "*"
 }
+```
